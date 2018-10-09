@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Image Processing</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="detections">Detections</string>
+    <string name="faces">Faces</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
